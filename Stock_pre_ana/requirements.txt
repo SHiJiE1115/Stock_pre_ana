@@ -1,0 +1,27 @@
+# 核心数据处理
+numpy>=1.21.0
+pandas>=1.3.0
+
+# 可视化
+matplotlib>=3.5.0
+
+# 机器学习
+scikit-learn>=1.0.2
+
+# 深度学习
+keras>=2.11.0  
+tensorflow>=2.11.0  
+
+# 金融数据接口
+tushare>=1.2.89
+
+# 科学计算
+scipy>=1.9.0
+
+# GUI开发
+tkinter>=0.1.0 
+
+# 其他依赖
+threading  # Python内置
+queue  # Python内置
+gc  # Python内置
