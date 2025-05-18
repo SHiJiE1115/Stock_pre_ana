@@ -1,4 +1,4 @@
-# stock_analysis.py
+# stock_prediction_analysis.py
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
